@@ -1,0 +1,13 @@
+# Virtual environment
+ex00/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter autosave
+.ipynb_checkpoints/
+
+# OS noise
+.DS_Store
