@@ -1,8 +1,4 @@
 # Virtual environment internals (not the folder itself)
-ex00/bin/
-ex00/lib/
-ex00/include/
-ex00/pyvenv.cfg
 
 # Python bytecode cache
 __pycache__/
