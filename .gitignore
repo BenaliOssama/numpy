@@ -4,6 +4,8 @@ ex00/lib/
 ex00/include/
 ex00/pyvenv.cfg
 
+share/
+
 # Python bytecode cache
 __pycache__/
 *.pyc
